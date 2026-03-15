@@ -3,7 +3,8 @@
 ## Overview
 ## Loss Landscape Visualization
 
-![Loss Landscape](Screenshot 2026-03-15 225714.png)
+![Loss Landscape](Screenshot%202026-03-15%20225714.png)
+
 
 
 This project provides an interactive visualization of neural network **loss landscapes** and compares how different optimization algorithms navigate the parameter space during training.
